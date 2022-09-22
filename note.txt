@@ -1,0 +1,29 @@
+"user_mentions": [
+                {
+                    "screen_name": "bernardokath",
+                    "name": "KATH \ud83d\udc18",
+                    "id": 197807757,
+                    "id_str": "197807757",
+                    "indices": [
+                        122,
+                        135
+                    ]
+                },
+                {
+                    "screen_name": "imdanielpadilla",
+                    "name": "Daniel Padilla",
+                    "id": 328918379,
+                    "id_str": "328918379",
+                    "indices": [
+                        136,
+                        152
+                    ]
+                }
+            ],
+
+
+"user_mentions":{
+    "screen_name":[bernardokath, imdanielpadilla],
+    "name":[KATH \ud83d\udc18, Daniel Padilla],
+    "id":[197807757, 328918379]
+}            
